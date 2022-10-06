@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="Dashboard_Icon" data-name="Dashboard Icon" transform="translate(-37 -196)">
+    <g id="Dashboard" transform="translate(2 26)">
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="35" height="35" rx="17.5" transform="translate(35 170)" fill="#0e4072"/>
+    </g>
+    <g id="dashboard-2" data-name="dashboard" transform="translate(47 206)">
+      <path id="Path_28389" data-name="Path 28389" d="M5.7,0H1.078A1.079,1.079,0,0,0,0,1.078V3.848A1.079,1.079,0,0,0,1.078,4.926H5.7A1.079,1.079,0,0,0,6.773,3.848V1.078A1.079,1.079,0,0,0,5.7,0Zm0,0" fill="#fff"/>
+      <path id="Path_28390" data-name="Path 28390" d="M5.7,213.332H1.078A1.079,1.079,0,0,0,0,214.41v6.465a1.079,1.079,0,0,0,1.078,1.078H5.7a1.079,1.079,0,0,0,1.078-1.078V214.41A1.079,1.079,0,0,0,5.7,213.332Zm0,0" transform="translate(0 -207.175)" fill="#fff"/>
+      <path id="Path_28391" data-name="Path 28391" d="M283.028,341.332H278.41a1.079,1.079,0,0,0-1.078,1.078v2.771a1.079,1.079,0,0,0,1.078,1.078h4.618a1.079,1.079,0,0,0,1.077-1.078V342.41A1.079,1.079,0,0,0,283.028,341.332Zm0,0" transform="translate(-269.327 -331.48)" fill="#fff"/>
+      <path id="Path_28392" data-name="Path 28392" d="M283.028,0H278.41a1.079,1.079,0,0,0-1.078,1.078V7.543A1.079,1.079,0,0,0,278.41,8.62h4.618a1.079,1.079,0,0,0,1.077-1.078V1.078A1.079,1.079,0,0,0,283.028,0Zm0,0" transform="translate(-269.327)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
