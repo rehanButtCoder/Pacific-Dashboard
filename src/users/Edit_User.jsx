@@ -7,8 +7,7 @@ import { getSingleUser, updateTheUser, userImgUplod } from '../Services/Users';
 
 
 const Edit_User = () => {
-    // This is for online and onhouse users
-    // This is for online and onhouse users
+    // This is for both online and simple users
     const { id } = useParams()
 
     const Swal = require('sweetalert2')

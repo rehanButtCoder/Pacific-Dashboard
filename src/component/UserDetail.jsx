@@ -32,10 +32,12 @@ const UserDetail = () => {
                     <div className="users-table-container set-5">
                         <div className="user-table-head setUD">
                             <div className="userHeading setUserDeatils">
-                                <img style={{ borderRadius: "50%" }} onError={({ currentTarget }) => {
-                                    currentTarget.onerror = null; // prevents looping
-                                    currentTarget.src = "/assets/images/user Detail Image1.png";
-                                }}
+                                <img
+                                    onError={({ currentTarget }) => {
+                                        currentTarget.onerror = null; // prevents looping
+                                        currentTarget.src = "/assets/images/user Detail Image1.png";
+                                    }}
+                                    className="imgSeting"
                                     src={userData?.profilePicture} alt="" />
                                 <div className='detailCtn'>
                                     <h4>Full Name</h4>

@@ -6,8 +6,9 @@ import { Link } from 'react-router-dom';
 import Swal from 'sweetalert2'
 
 const OnilneUsers = () => {
-    // users crud is made in users folder
-    // users crud is made in users folder
+    // online user component is <OnilneUsers /> || Users component is for simple users
+    // online users and simple users view page are different but edit and create components are same
+    // both online and simple users crud is made in users folder
     const showMenu = (e) => {
         document.querySelectorAll(".actionContent").forEach((item) => {
             if (e.target.closest(".actionContent") === item) {

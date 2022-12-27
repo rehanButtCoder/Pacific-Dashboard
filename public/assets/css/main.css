@@ -379,6 +379,13 @@ form.form-login {
   padding: 22px;
 }
 
+.imgSeting {
+  border-radius: 50%;
+  width: 60px;
+  object-fit: cover;
+  height: 60px;
+}
+
 /* dashborad user */
 
 .filter {
